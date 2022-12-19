@@ -20,7 +20,7 @@ The data request is divided into two parts.
 The results of the two parts of the data request are as follows:
 
 ###Part One
-Data filtering and organizatin was achieved as requested. 
+Data filtering and organization was achieved as requested. 
 
 The followong displays the summary statistics of the first part of the analysis.
 
@@ -28,7 +28,7 @@ The followong displays the summary statistics of the first part of the analysis.
 
 
 ###Part Two
-Data filtering and organizatin was achieved as requested. 
+Data filtering and organization was achieved as requested. 
 
 The followong displays the summary statistics of the second part of the analysis.
 
